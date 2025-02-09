@@ -73,7 +73,6 @@ Ensure you have the following installed:
 - Python 3.x
 - Required Python libraries (install using `pip`):
   ```sh
-  pip install pandas numpy nltk scikit-learn gensim wordcloud NRCLex word2vec keras tensorflow
   ```
 
 ### Running the Scripts
@@ -99,7 +98,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions, feel free to reach out!
-- **Author:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile]
+- **Author:** Getnet Demil
+- **Email:** getnetd24@gmail.com
+- **GitHub:** getnetdemil
 
