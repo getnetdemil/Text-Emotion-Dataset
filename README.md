@@ -77,26 +77,7 @@ Ensure you have the following installed:
   ```
 
 ### Running the Scripts
-1. **Data Preprocessing**
-   ```sh
-   python preprocess_data.py
-   ```
-2. **Statistical Analysis**
-   ```sh
-   python analyze_vocabulary.py
-   ```
-3. **Lexicon-Based Analysis**
-   ```sh
-   python lexicon_analysis.py
-   ```
-4. **Machine Learning Models**
-   ```sh
-   python ml_classification.py
-   ```
-5. **Deep Learning Model**
-   ```sh
-   python cnn_classification.py
-   ```
+
 
 ## Repository Structure
 ```
