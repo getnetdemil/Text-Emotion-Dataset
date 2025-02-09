@@ -1,0 +1,6 @@
+,Emotion 1,Emotion 2,Cosine Similarity
+0,sadness,boredom,0.9909248352050781
+1,hate,anger,0.9821678400039673
+2,fun,love,0.9880451560020447
+3,fun,happiness,0.9922802448272705
+4,love,happiness,0.9921612739562988
